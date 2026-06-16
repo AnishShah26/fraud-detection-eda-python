@@ -61,7 +61,17 @@ jupyter notebook notebooks/fraud_detection_eda.ipynb
 ```
 
 ## Dataset Note
-The original dataset is not redistributed in this repository. The notebook references a transaction fraud dataset source, and the `data/README.md` file explains how the data folder should be structured if the dataset is downloaded separately.
+
+This project uses the Kaggle dataset **Financial Transactions Dataset: Analytics** by **ComputingVictor**.
+
+Dataset link: https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets
+
+The full `transactions_data.csv` file is not included in this repository because of file-size limitations. To reproduce the analysis, download the dataset from Kaggle and place `transactions_data.csv` inside the `data/` folder.
+
+Expected path:
+
+```text
+data/transactions_data.csv
 
 ## Recruiter Summary
 This project demonstrates Python EDA, data cleaning, risk-focused analysis and business interpretation for fraud monitoring use cases.
