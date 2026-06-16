@@ -22,6 +22,3 @@ Financial institutions and FinTech firms need to monitor unusual transaction beh
 - Reviewed transaction types across customer segments
 - Created high-risk client categories using behavioural indicators
 - Produced visual outputs to support interpretation
-
-## CV Bullet
-Conducted Python-based EDA on transaction data to identify fraud-risk patterns across merchants, clients, transaction channels and seasonal trends, translating findings into risk-monitoring insights.
