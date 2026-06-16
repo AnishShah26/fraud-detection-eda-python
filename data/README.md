@@ -1,11 +1,16 @@
-# Data Folder
+# Dataset
 
-The original transaction dataset is not stored in this repository.
+This project uses the Kaggle dataset:
 
-To run the notebook, download the dataset referenced in the project notebook/README and place the transaction CSV file in this folder or update the notebook path accordingly.
+**Financial Transactions Dataset: Analytics**  
+Creator: **ComputingVictor**  
+Source: **Kaggle**  
 
-Expected example path used by the original notebook:
+Dataset link: https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets
+
+## Dataset File Used
+
+The main file used in this project is:
 
 ```text
-Datasets/transactions_data.csv
-```
+transactions_data.csv
